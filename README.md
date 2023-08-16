@@ -30,9 +30,11 @@ Dive deep into the heart of mathematical functions and uncover how they intertwi
 
 Mathematical functions stand as the backbone of countless algorithms in data science. By truly understanding and aptly applying them, you unlock an enhanced skill set, propelling you forward in your AI journey. The world of artificial intelligence is vast, and this knowledge will serve as your compass. 🌍🧭
 
-
-
 ---
+
+Ivan Ozono
+Data Analyst | Machine Learning
+sabel4008@gmail.com
 
 ✨ **Join Me on This Exciting Journey!** ✨
 
