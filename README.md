@@ -1,4 +1,4 @@
-📖 **Understanding Mathematical Functions** 📖
+📖 **Mathematical Functions** 📖
 
 Welcome to the guide that aims to empower you with the knowledge of mathematical functions and their pivotal role in the realm of data science and artificial intelligence. 🌌🔍
 
