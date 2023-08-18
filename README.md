@@ -18,10 +18,7 @@ Dive deep into the heart of mathematical functions and uncover how they intertwi
 2️⃣ **Mastering Error Calculations** ❌📊
    - Grasp techniques to quantify and mitigate errors in your models. By mastering this, you ensure the optimized performance of your algorithms.
 
-3️⃣ **Deciphering Mathematical Notations** 📜➗
-   - Break down complex mathematical notations and symbols. Turn intimidating equations into understandable knowledge, making your journey in AI smoother.
-
-4️⃣ **Understanding the Domain and Range of a Function** 📈🔍
+3️⃣  **Understanding the Domain and Range of a Function** 📈🔍
    - Delve into fundamental concepts that determine how mathematical functions behave. Gain insights into their characteristics and properties.
 
 ---
@@ -32,7 +29,7 @@ Mathematical functions stand as the backbone of countless algorithms in data sci
 
 ---
 
-Ivan Ozono
+Ivan Ozono |
 Data Analyst | Machine Learning
 sabel4008@gmail.com
 
