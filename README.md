@@ -1,3 +1,5 @@
+# 🌟 Data Driven Functions Project: The Math behind Sciencie 💼
+
 📖 **Mathematical Functions** 📖
 
 Welcome to the guide that aims to empower you with the knowledge of mathematical functions and their pivotal role in the realm of data science and artificial intelligence. 🌌🔍
